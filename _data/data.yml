@@ -25,7 +25,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    Языки:
+    languages:
       - idiom: Английский
         level: Свободный
 
@@ -35,7 +35,7 @@ sidebar:
       - idiom: Немецкий
         level: Средний
 
-    Интересы:
+    interests:
       - item: Компьютеры
         link:
 
@@ -53,7 +53,7 @@ career-profile:
       с операционной системой GNU/Linux так и Windows.
       Поддерживаю работу сайтов, а также умею создавать простые сайты сам. 
       Имею справку об отсутсвии судимости и медкнижку.  
-  education:
+education:
     - degree: Магистр "Материаловедение и новые материалы"
       university: Волгоградский Государственный Технический Университет
       time: 2010 - 2012
