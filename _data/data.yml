@@ -51,11 +51,12 @@ career-profile:
       Системный администратор, имею навыки управления большой сетью из нескольких десятков компьютеров.
       Настраиваю работу принтеров, общий доступ к файлам и папкам в сети, состоящей из как компьютеров 
       с операционной системой GNU/Linux так и Windows.
-      Поддерживаю работу сайтов, а также умею создавать простые сайты сам.       
-Образование:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      Поддерживаю работу сайтов, а также умею создавать простые сайты сам. 
+      Имею справку об отсутсвии судимости и медкнижку.  
+  education:
+    - degree: Магистр "Материаловедение и новые материалы"
+      university: Волгоградский Государственный Технический Университет
+      time: 2010 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,9 +65,9 @@ career-profile:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: Бакалавр "Технологические машины и оборудование"
       university: Bristol University
-      time: 2007 - 2011
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,7 +77,7 @@ career-profile:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Инженер лаборатории кафедры
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
