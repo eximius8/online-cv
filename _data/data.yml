@@ -82,21 +82,19 @@ experiences:
       time: 9.2018 - 6.2019
       company: Linde AG, Munich
       details: |
-        Studied the impact of laser powder bed fusion 3D-printer build chamber residual oxygen 
-        concentration on microstructure and mechanical properties of Scalmalloy, Al-7Si-Mg and Inconel 718 alloys.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        I did my internship and master thesis work here. My task was to study the impact residual oxygen concentration in 3D-printer chammber 
+        on microstructure and mechanical properties of Scalmalloy, Al-7Si-Mg and Inconel 718 alloys. I gained hands-on experience in:
+          - Optical microscopy and image analysis
+          - Particle size analysis
+          - Chemical analysis of metallic materials
+    - role: Materials science lab Engineer
       time: 2012 - 2016
       company: Volgograd State Technical University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My work was part of the project to study explosion welded laminated metal materials.
+        I prepared and performed experiments, analyzed data and wrote reports. The results of my experiments were published in scientific papers.
+          - Scientific writing
+          - Design of experiments
 projects:
     title: Projects
     intro: >
