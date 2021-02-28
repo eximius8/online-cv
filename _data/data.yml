@@ -20,7 +20,7 @@ sidebar:
     telegram: Mischuta # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@mikhail_trunov'
+    twitter: 'mikhail_trunov'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -78,7 +78,7 @@ education:
           - Bullet point
 experiences:
     - role: Инженер лаборатории кафедры
-      time: 2015 - Present
+      time: 10.2020 - наст.вр.
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
