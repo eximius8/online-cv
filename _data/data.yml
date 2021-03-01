@@ -102,13 +102,15 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: "Plasmonic pigments: scale-up of continuous process for the production of silver patches on silica supports"
+        link: "https://drive.google.com/open?id=0B1XP2v_1zU6OQ1Z3WDB4NzZaRmlULTlqX2NXcjBpSUpHa0FB"
+        tagline: "I performed this project as part of my coursework. My goal was to 
+        silica nanoparticle synthesis, chemical reactor for nanoparticle coating assembly, running various experiments in a chemical lab"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Self-assembly of Core-shell nanoparticles
+        link: "https://drive.google.com/open?id=1m1JIqPy8Qqay9fPYGpJhwFpNO583Yc7Y"
+        tagline: "studying the formation of self-assembled structures of particles using the 
+        provided C++ code via Molecular Dynamics and Monte-Carlo algorithms, bash scripting for running ofthe applications on a cluster"
 
       - title: Tempo
         link: "#"
