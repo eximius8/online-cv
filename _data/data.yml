@@ -96,11 +96,9 @@ experiences:
           - Scientific writing
           - Design of experiments
 projects:
-    title: Projects
+    title: Projects and coursework
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      During my studies I did small projects and wrote literature reviews, which were later graded.
     assignments:
       - title: "Plasmonic pigments: scale-up of continuous process for the production of silver patches on silica supports"
         link: "https://drive.google.com/open?id=0B1XP2v_1zU6OQ1Z3WDB4NzZaRmlULTlqX2NXcjBpSUpHa0FB"
@@ -112,17 +110,14 @@ projects:
         tagline: "studying the formation of self-assembled structures of particles using the 
         provided C++ code via Molecular Dynamics and Monte-Carlo algorithms, bash scripting for running ofthe applications on a cluster"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: "Rare earth metal doped nanoparticles for thermometry applications: structures and temperature measurement mechanisms"
+        link: "https://www.overleaf.com/read/pfprgnptvdwn"
+        tagline: "Literature review"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Application of Constant Number Monte Carlo method for particle aggregation and agglomeration simulations
+        link: "https://www.overleaf.com/read/tmsmpbdbmrzx"
+        tagline: "Literature review"
+      
 
 publications:
     title: Publications
