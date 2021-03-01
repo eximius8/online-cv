@@ -50,7 +50,7 @@ career-profile:
     summary: |
       Materials scientist, researcher, developer. 
       Previous education and experience includes 3D printing of metals (SLM), research of laminated metal composites, 
-      nanoparticle synthesis, simulations of particle self-assembly, chemical and biotechnology lab practicles.       
+      nanoparticle synthesis, simulations of particle self-assembly, chemical and biotechnology lab work.       
 education:
     - degree: M.Sc. in Advanced Materials and Processes
       link: "https://www.map.tf.fau.de/"
@@ -82,7 +82,7 @@ experiences:
       time: 9.2018 - 6.2019
       company: Linde AG, Munich
       details: |
-        I did my internship and master thesis work here. My task was to study the impact residual oxygen concentration in 3D-printer chammber 
+        I did my internship and master thesis work here. My task was to study the impact of residual oxygen concentration in 3D-printer build chamber 
         on microstructure and mechanical properties of Scalmalloy, Al-7Si-Mg and Inconel 718 alloys. I gained hands-on experience in:
           - Optical microscopy and image analysis
           - Particle size analysis
@@ -91,7 +91,7 @@ experiences:
       time: 2012 - 2016
       company: Volgograd State Technical University
       details: |
-        My work was part of the project to study explosion welded laminated metal materials.
+        My work was a part of the project to study explosion welded laminated metal materials.
         I prepared and performed experiments, analyzed data and wrote reports. The results of my experiments were published in scientific papers.
           - Scientific writing
           - Design of experiments
@@ -102,13 +102,14 @@ projects:
     assignments:
       - title: "Plasmonic pigments: scale-up of continuous process for the production of silver patches on silica supports"
         link: "https://drive.google.com/open?id=0B1XP2v_1zU6OQ1Z3WDB4NzZaRmlULTlqX2NXcjBpSUpHa0FB"
-        tagline: "I performed this project as part of my coursework. My goal was to 
-        silica nanoparticle synthesis, chemical reactor for nanoparticle coating assembly, running various experiments in a chemical lab"
+        tagline: "In this project my goal was to find the reaction parameters to increase the yield of  
+        silica nanoparticle covered with silver patches. I assembled chemical reactor for nanoparticle coating and ran various experiments in a chemical lab."
 
       - title: Self-assembly of Core-shell nanoparticles
         link: "https://drive.google.com/open?id=1m1JIqPy8Qqay9fPYGpJhwFpNO583Yc7Y"
-        tagline: "studying the formation of self-assembled structures of particles using the 
-        provided C++ code via Molecular Dynamics and Monte-Carlo algorithms, bash scripting for running ofthe applications on a cluster"
+        tagline: "My goal was to find new 3D-quasiperiodic formed from hard particles with soft shells.
+        I employed Molecular Dynamics and Monte-Carlo algorithms to study the behavior of particle ensembles.
+        I was running the provided C++ code on a university cluster"
 
       - title: "Rare earth metal doped nanoparticles for thermometry applications: structures and temperature measurement mechanisms"
         link: "https://www.overleaf.com/read/pfprgnptvdwn"
@@ -130,7 +131,7 @@ publications:
         authors: Trykov, Y., Gurevich, L., Pronichev, D., Trunov, M.
         conference: Materials Science, 2014
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Investigation on contact melting of Cu/Al laminated composite"
         link: "https://doi.org/10.3989/revmetalm.079"
         authors: Pronichev, D., Gurevich, L., Trykov, Y., Trunov, M.
         conference: "Revista de Metalurgia, 2016"
